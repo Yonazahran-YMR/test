@@ -3,9 +3,9 @@
 A personal study assistant with real conversation memory, note-taking, searching your own notes, and optional GitHub sync. 100% free, runs on your personal desktop (Google Gemini powered).
 
 # (v2)
-Real conversation memory - Chloe now remembers what you've said earlier in the session. Natural replies like "no thanks" or "tell me more about that" just work, no rigid command syntax required.
-GitHub sync - notes can auto-push to your repo the moment they're saved (optional, off by default until you configure it).
-Spotify playback - "play", "pause", "skip" (optional, needs Spotify Premium - see setup below).
+- Real conversation memory - Chloe now remembers what you've said earlier in the session. Natural replies like "no thanks" or "tell me more about that" just work, no rigid command syntax required.
+- GitHub sync - notes can auto-push to your repo the moment they're saved (optional, off by default until you configure it).
+- Spotify playback - "play", "pause", "skip" (optional, needs Spotify Premium).
 
 # (v3)
 
