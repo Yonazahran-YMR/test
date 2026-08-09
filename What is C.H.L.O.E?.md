@@ -1,6 +1,6 @@
 # C.H.L.O.E - Completely Helpful Little Operating Entity
 
-A personal study assistant with real conversation memory, note-taking, searching your own notes, and optional GitHub sync. 100% free, runs on your personal desktop (Google Gemini powered).
+A personal study assistant project with real conversation memory, note-taking, searching your own notes, and optional GitHub sync. 100% free, runs on your personal desktop (Google Gemini powered).
 
 # (v2)
 - Real conversation memory - Chloe now remembers what you've said earlier in the session. Natural replies like "no thanks" or "tell me more about that" just work, no rigid command syntax required.
