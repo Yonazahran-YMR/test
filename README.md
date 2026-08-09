@@ -21,4 +21,4 @@ These all lean on something Siri/Alexa/Google Assistant structurally can't do: r
 - Readiness check - readiness <topic> gives an honest read on how solid your notes actually are on something, based only on what you've written - not a false-encouragement "you got this!"
 - Portfolio summary - portfolio summary drafts a "here's what I've learned" writeup from your note history - handy for a GitHub README, LinkedIn post, or personal changelog.
 - Socratic quiz mode - quiz me (or quiz me on <topic>) starts an interactive back-and-forth quiz pulled entirely from your own notes, with feedback after each answer. Say "stop quiz" to end it.
-- Gentle time-awareness - on startup, Chloe quietly mentions if a topic hasn't been touched in a few weeks, based on your notes' own dates - not a nagging reminder app, just a quiet nudge.
+- Gentle time-awareness - on startup, Chloe quietly mentions if a topic hasn't been touched in a few weeks, based on your notes' own dates.
