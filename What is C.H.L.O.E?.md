@@ -5,7 +5,7 @@ A personal study assistant with real conversation memory, note-taking, searching
 # (v2)
 - Real conversation memory - Chloe now remembers what you've said earlier in the session. Natural replies like "no thanks" or "tell me more about that" just work, no rigid command syntax required.
 - GitHub sync - notes can auto-push to your repo the moment they're saved (optional, off by default until you configure it).
-- Spotify playback - "play", "pause", "skip" (optional, needs Spotify Premium).
+- Spotify playback - "play", "pause", "skip" (needs Spotify Premium).
 
 # (v3)
 
